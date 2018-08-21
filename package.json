@@ -1,0 +1,23 @@
+{
+  "name": "dynamo-rest-wrapper-optimizer",
+  "version": "1.0.0",
+  "description": "A DynamoDB REST Wrapper & Optimizer for NodeJS",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "DynamoDB",
+    "REST",
+    "API"
+  ],
+  "author": "Matt Lachance",
+  "license": "ISC",
+  "dependencies": {
+    "dynamodb-data-types": "^3.0.1",
+    "uuid4": "^1.0.0"
+  }
+}
