@@ -19,5 +19,12 @@
   "dependencies": {
     "dynamodb-data-types": "^3.0.1",
     "uuid4": "^1.0.0"
+  },
+  "dev-dependencies":{
+    "jest": "^23.5.0"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/chomama05/dynamo-rest-wrapper-optimizer.git"
   }
 }
