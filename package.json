@@ -1,6 +1,6 @@
 {
   "name": "dynamo-rest-wrapper-optimizer",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A DynamoDB REST Wrapper & Optimizer for NodeJS",
   "main": "index.js",
   "directories": {
